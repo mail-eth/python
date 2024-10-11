@@ -31,7 +31,7 @@ def main():
             break
         else:
             print("\n")
-            print("Pilihlah yang benar!!")
+            print ("Pilihlah yang benar!!")
 
     print("Keluar dari agenda!")
 main()
